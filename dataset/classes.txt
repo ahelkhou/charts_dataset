@@ -3,3 +3,5 @@ stacked_column
 legend
 legend_item
 bar
+stacked_bar
+divider

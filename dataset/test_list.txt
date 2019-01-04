@@ -1,6 +1,2 @@
-/Users/ahmed/darknet/new_charts_yolo_dataset/dataset/0023.JPEG
-/Users/ahmed/darknet/new_charts_yolo_dataset/dataset/0028.JPEG
-/Users/ahmed/darknet/new_charts_yolo_dataset/dataset/0026.JPEG
-/Users/ahmed/darknet/new_charts_yolo_dataset/dataset/0035.JPEG
-/Users/ahmed/darknet/new_charts_yolo_dataset/dataset/0036.JPEG
-/Users/ahmed/darknet/new_charts_yolo_dataset/dataset/0037.JPEG
+/Users/ahmed/darknet/charts_dataset/dataset/0029.JPEG
+/Users/ahmed/darknet/charts_dataset/dataset/004.JPEG

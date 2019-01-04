@@ -1,4 +1,4 @@
-classes= 5
+classes= 7
 train  = /content/charts_dataset/train_list.txt
 valid  = /content/charts_dataset/test_list.txt
 names = /content/charts_dataset/cfg/charts.names
