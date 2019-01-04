@@ -7,7 +7,6 @@
 /content/charts_dataset/dataset/007.JPEG
 /content/charts_dataset/dataset/011.JPEG
 /content/charts_dataset/dataset/0025.JPEG
-/content/charts_dataset/dataset/0028.JPEG
 /content/charts_dataset/dataset/0024.JPEG
 /content/charts_dataset/dataset/010.JPEG
 /content/charts_dataset/dataset/006.JPEG
