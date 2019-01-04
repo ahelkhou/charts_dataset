@@ -21,4 +21,3 @@
 /content/charts_dataset/dataset/003.JPEG
 /content/charts_dataset/dataset/002.JPEG
 /content/charts_dataset/dataset/0036.JPEG
-/content/charts_dataset/dataset/034.JPEG
