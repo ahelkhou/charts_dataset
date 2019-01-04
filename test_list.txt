@@ -1,2 +1,2 @@
-/content/charts_dataset/dataset/0029.JPEG
-/content/charts_dataset/dataset/004.JPEG
+/Users/ahmed/darknet/charts_dataset/dataset/0029.JPEG
+/Users/ahmed/darknet/charts_dataset/dataset/004.JPEG
