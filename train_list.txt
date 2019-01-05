@@ -7,7 +7,6 @@
 /content/charts_dataset/dataset/007.JPEG
 /content/charts_dataset/dataset/011.JPEG
 /content/charts_dataset/dataset/0025.JPEG
-/content/charts_dataset/dataset/0029.JPEG
 /content/charts_dataset/dataset/0028.JPEG
 /content/charts_dataset/dataset/0032.JPEG
 /content/charts_dataset/dataset/0024.JPEG
@@ -17,7 +16,6 @@
 /content/charts_dataset/dataset/0027.JPEG
 /content/charts_dataset/dataset/005.JPEG
 /content/charts_dataset/dataset/009.JPEG
-/content/charts_dataset/dataset/004.JPEG
 /content/charts_dataset/dataset/0026.JPEG
 /content/charts_dataset/dataset/0040.JPEG
 /content/charts_dataset/dataset/0021.JPEG
