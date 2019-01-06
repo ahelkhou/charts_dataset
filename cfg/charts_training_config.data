@@ -1,5 +1,5 @@
 classes= 6
-train  = /content/charts_dataset/train_list.txt
-valid  = /content/charts_dataset/test_list.txt
-names = /content/charts_dataset/cfg/charts.names
-backup = /content/darknet/backup
+train  = charts_dataset/train_list.txt
+valid  = charts_dataset/test_list.txt
+names = cfg/charts.names
+backup = backup
