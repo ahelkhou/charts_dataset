@@ -1,4 +1,4 @@
-classes= 6
+classes= 2
 train  = charts_dataset/train_list.txt
 valid  = charts_dataset/test_list.txt
 names = cfg/charts.names

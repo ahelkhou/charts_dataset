@@ -12,9 +12,10 @@ charts_dataset/dataset/0024.JPEG
 charts_dataset/dataset/010.JPEG
 charts_dataset/dataset/006.JPEG
 charts_dataset/dataset/0031.JPEG
+charts_dataset/dataset/0027.JPEG
 charts_dataset/dataset/005.JPEG
 charts_dataset/dataset/009.JPEG
-charts_dataset/dataset/0026.JPEG
+charts_dataset/dataset/004.JPEG
 charts_dataset/dataset/0040.JPEG
 charts_dataset/dataset/0021.JPEG
 charts_dataset/dataset/003.JPEG
