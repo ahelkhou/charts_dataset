@@ -1,2 +1,4 @@
-charts_dataset/dataset/0033.JPEG
-charts_dataset/dataset/0026.JPEG
+charts_dataset/dataset/020.JPEG
+charts_dataset/dataset/0032.JPEG
+charts_dataset/dataset/009.JPEG
+charts_dataset/dataset/002.JPEG
