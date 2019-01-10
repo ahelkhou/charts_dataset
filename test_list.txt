@@ -10,3 +10,15 @@ charts_dataset/dataset/0088.JPEG
 charts_dataset/dataset/0040.JPEG
 charts_dataset/dataset/0098.JPEG
 charts_dataset/dataset/00211.JPEG
+charts_dataset/dataset/test/008.JPEG
+charts_dataset/dataset/test/009.JPEG
+charts_dataset/dataset/test/0010.JPEG
+charts_dataset/dataset/test/0015.JPEG
+charts_dataset/dataset/test/0080.JPEG
+charts_dataset/dataset/test/0084.JPEG
+charts_dataset/dataset/test/00106.JPEG
+charts_dataset/dataset/test/00109.JPEG
+charts_dataset/dataset/test/00132.JPEG
+charts_dataset/dataset/test/00133.JPEG
+charts_dataset/dataset/test/00134.JPEG
+charts_dataset/dataset/test/00135.JPEG
